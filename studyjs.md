@@ -41,3 +41,5 @@
 4. console.log()
 
     *写入到浏览器的控制台*
+    
+    **JavaScript 中，常见的是驼峰法的命名规则，如 lastName (而不是lastname)。** 
